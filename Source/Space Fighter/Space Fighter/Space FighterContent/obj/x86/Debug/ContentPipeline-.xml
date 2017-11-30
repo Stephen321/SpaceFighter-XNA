@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>asteroid.bmp</Source>
+      <Name>asteroid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\asteroid.xnb</Output>
+      <Time>2014-04-01T16:32:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2014-04-01T11:33:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ship.png</Source>
+      <Name>ship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\ship.xnb</Output>
+      <Time>2014-04-01T11:33:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>circle.png</Source>
+      <Name>circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\circle.xnb</Output>
+      <Time>2014-03-26T20:36:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>star.png</Source>
+      <Name>star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\star.xnb</Output>
+      <Time>2014-03-26T20:36:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>triangle.png</Source>
+      <Name>triangle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\triangle.xnb</Output>
+      <Time>2014-03-26T20:36:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>space100.png</Source>
+      <Name>space100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\space100.xnb</Output>
+      <Time>2014-03-26T18:27:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>space60.png</Source>
+      <Name>space60</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\space60.xnb</Output>
+      <Time>2014-03-26T18:26:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>space80.png</Source>
+      <Name>space80</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\space80.xnb</Output>
+      <Time>2014-03-26T18:16:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>asteroidparticle1.png</Source>
+      <Name>asteroidparticle1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\asteroidparticle1.xnb</Output>
+      <Time>2014-03-30T15:32:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>asteroidparticle2.png</Source>
+      <Name>asteroidparticle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\asteroidparticle2.xnb</Output>
+      <Time>2014-03-30T15:32:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>asteroidparticle3.png</Source>
+      <Name>asteroidparticle3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\asteroidparticle3.xnb</Output>
+      <Time>2014-03-30T15:24:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>healthbar.png</Source>
+      <Name>healthbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\healthbar.xnb</Output>
+      <Time>2014-03-30T17:55:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>scoreboard.png</Source>
+      <Name>scoreboard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\scoreboard.xnb</Output>
+      <Time>2014-03-30T17:57:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>infobubble.png</Source>
+      <Name>infobubble</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\infobubble.xnb</Output>
+      <Time>2014-04-01T23:19:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>splashBackground.jpg</Source>
+      <Name>splashBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\splashBackground.xnb</Output>
+      <Time>2014-03-31T21:55:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>continuebutton.png</Source>
+      <Name>continuebutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\continuebutton.xnb</Output>
+      <Time>2014-03-31T22:12:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>exitbutton.png</Source>
+      <Name>exitbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\exitbutton.xnb</Output>
+      <Time>2014-03-31T22:13:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>infobutton.png</Source>
+      <Name>infobutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\infobutton.xnb</Output>
+      <Time>2014-03-31T22:12:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mainmenubutton.png</Source>
+      <Name>mainmenubutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\mainmenubutton.xnb</Output>
+      <Time>2014-03-31T22:11:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>musicbutton.png</Source>
+      <Name>musicbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\musicbutton.xnb</Output>
+      <Time>2014-03-31T22:11:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>optionsbutton.png</Source>
+      <Name>optionsbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\optionsbutton.xnb</Output>
+      <Time>2014-03-31T22:10:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>soundsbutton.png</Source>
+      <Name>soundsbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\soundsbutton.xnb</Output>
+      <Time>2014-03-31T22:13:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>startbutton.png</Source>
+      <Name>startbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\startbutton.xnb</Output>
+      <Time>2014-03-31T22:09:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>upgrade.png</Source>
+      <Name>upgrade</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\upgrade.xnb</Output>
+      <Time>2014-04-01T15:52:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gameoverBackground.jpg</Source>
+      <Name>gameoverBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\gameoverBackground.xnb</Output>
+      <Time>2014-04-01T23:39:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>infoTexture.png</Source>
+      <Name>infoTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\infoTexture.xnb</Output>
+      <Time>2014-04-02T01:21:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy.png</Source>
+      <Name>enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\enemy.xnb</Output>
+      <Time>2014-04-03T21:50:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>explosionspritesheet.png</Source>
+      <Name>explosionspritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\explosionspritesheet.xnb</Output>
+      <Time>2014-04-02T20:33:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy2.png</Source>
+      <Name>enemy2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\enemy2.xnb</Output>
+      <Time>2014-04-03T21:22:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy3.png</Source>
+      <Name>enemy3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\enemy3.xnb</Output>
+      <Time>2014-04-03T21:22:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>shield.png</Source>
+      <Name>shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\shield.xnb</Output>
+      <Time>2014-04-04T00:01:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>heart.png</Source>
+      <Name>heart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\heart.xnb</Output>
+      <Time>2014-04-04T01:29:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2014-03-30T18:05:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Font1.spritefont</Source>
+      <Name>Font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\Font1.xnb</Output>
+      <Time>2014-03-31T17:00:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>click.wav</Source>
+      <Name>click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\click.xnb</Output>
+      <Time>2014-03-31T17:01:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>laser.wav</Source>
+      <Name>laser</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\laser.xnb</Output>
+      <Time>2014-03-31T23:25:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>rock.wav</Source>
+      <Name>rock</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\rock.xnb</Output>
+      <Time>2014-03-31T23:25:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.wav</Source>
+      <Name>explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2014-04-02T13:51:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>laser2.WAV</Source>
+      <Name>laser2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\laser2.xnb</Output>
+      <Time>2014-04-02T14:32:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>music2.mp3</Source>
+      <Name>music2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\music2.xnb</Output>
+      <Extra>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\music2.wma</Extra>
+      <Time>2014-04-04T10:36:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>music1.mp3</Source>
+      <Name>music1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\music1.xnb</Output>
+      <Extra>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\music1.wma</Extra>
+      <Time>2014-03-31T23:07:18+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Stephen\Google Drive\Carlow IT\1st Year\Programming\Labs\JointProject2 All files\JointProject2 C00181305\JointProject2\JointProject2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-05-17T16:42:39.0664152+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
