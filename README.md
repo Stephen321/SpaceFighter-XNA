@@ -1,5 +1,5 @@
 #### Created with: 
-A game created in C# XNA using Visual Studio 2010 Express Edition. 
+A game created in C# XNA using Visual Studio 2010 Express Edition in my first year of college (2013/2014). 
 
 #### Description: 
 This is a game set in space where you are a lone fighter against a variant
